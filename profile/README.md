@@ -1,2 +1,2 @@
-evilwebsite.github.io/poc1
+evilwebsite.github.io
 
